@@ -1,12 +1,6 @@
-test
+eat samosa
+eat pizza
+eat bugger
 
-test
-
-soda
-
-
-<<<<<<< HEAD
-test1
-=======
-this is the subdomain branch
->>>>>>> thirsty
+drinwater
+drink soda

@@ -3,3 +3,6 @@ eat samosa
 eat pizza
 
 in indore
+
+
+this is the subdomain part

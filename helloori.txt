@@ -2,3 +2,8 @@ test
 
 fries
 samosa
+
+
+
+mobile
+charger

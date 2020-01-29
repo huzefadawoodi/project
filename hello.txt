@@ -14,4 +14,10 @@ charger
 eat pizza
 
 in indore
+<<<<<<< HEAD
+>>>>>>> thirsty
+=======
+
+
+this is the subdomain part
 >>>>>>> thirsty

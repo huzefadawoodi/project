@@ -1,4 +1,5 @@
 eat samosa
+<<<<<<< HEAD
 eat pizza
 eat bugger
 
@@ -8,3 +9,9 @@ drink soda
 
 mobile
 charger
+=======
+
+eat pizza
+
+in indore
+>>>>>>> thirsty

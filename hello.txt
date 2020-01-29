@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 eat samosa
 <<<<<<< HEAD
 eat pizza
@@ -21,3 +22,6 @@ in indore
 
 this is the subdomain part
 >>>>>>> thirsty
+=======
+this is the world
+>>>>>>> 3da86de211e2d5482cde9d08b7e041875ed8a633

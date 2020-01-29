@@ -5,4 +5,8 @@ test
 soda
 
 
+<<<<<<< HEAD
 test1
+=======
+this is the subdomain branch
+>>>>>>> thirsty
